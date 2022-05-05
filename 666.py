@@ -1,2 +1,2 @@
 print("smoke")
-print("hello")
+print("cat")
