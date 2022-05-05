@@ -1,1 +1,2 @@
 print("smoke")
+print("hello")
