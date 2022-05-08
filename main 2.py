@@ -1,3 +1,3 @@
-print("Hello world")
-print("Hello world")
-print('hello')
+age =  float ("5.6742")
+age = round (age,3)
+print(age)
